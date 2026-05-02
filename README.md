@@ -1,48 +1,12 @@
 # 🏥 Fitness Record Data Engineering Project: From Raw Data to Production Analytics
 
-**Build your first complete data lakehouse from scratch** - completely free! This tutorial uses Apple Health data as an example, but the skills you learn apply to any data engineering project. Perfect for developers looking to break into data & AI.
 
 ![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion%20(Bronze%2FSilver%2FGold)-blue)
 ![Databricks](https://img.shields.io/badge/Platform-Databricks-orange)
 ![Spark](https://img.shields.io/badge/Engine-Apache%20Spark%204.0-red)
 ![Delta Lake](https://img.shields.io/badge/Storage-Delta%20Lake-green)
 
-## 🎯 Why This Tutorial?
 
-**There's huge demand for data and AI skills, but practical 'learn by doing' content is missing.** Whether you're prepping for interviews, building your portfolio, or just want hands-on experience with modern data stack, this tutorial gives you a solid foundation.
-
-**This isn't just about health data** - we use Apple Health as a relatable example because everyone understands personal data. The architecture, patterns, and skills you'll learn apply to any data engineering project: financial data, IoT sensors, customer analytics, or real-time streams.
-
-**You'll build something portfolio-worthy** that demonstrates real-world data engineering expertise employers want to see. By the end, you'll have hands-on experience with the same technologies used at companies like Netflix, Uber, and Databricks.
-
-## 📋 What You'll Master
-
-**Core Data Engineering Skills:**
-- Medallion Architecture (industry-standard Bronze → Silver → Gold pattern)
-- Data lakehouse principles used in production at scale
-- Unity Catalog for enterprise data governance
-- Apache Spark for distributed data processing
-- Delta Lake for reliable, ACID-compliant storage
-
-**Technical Skills That Get You Hired:**
-- XML/JSON parsing and data transformation at scale
-- SQL optimization and performance tuning
-- Python data processing and visualization
-- Production-ready pipeline development
-- Data quality monitoring and validation
-
-**Business Intelligence & Analytics:**
-- Building analytics-ready datasets from raw data
-- Implementing business logic and domain-specific scoring
-- Creating dashboards and visualizations
-- Performance analysis and trend identification
-
-**By the end of this tutorial, you'll understand:**
-- How to design and implement a complete data pipeline from scratch
-- Why the medallion architecture is the gold standard for data lakehouses
-- How to optimize queries for 10x performance improvements
-- What makes data "production-ready" vs just working
-- How to apply these skills to any data engineering project
 
 ## 🚀 Prerequisites
 
@@ -73,7 +37,7 @@
 ├── Health Analytics Demo.ipynb     # Complete step-by-step tutorial
 ├── data/
 │   └── sample_export.xml           # Sample data to practice with
-├── visuals/                        # Architecture diagrams and examples
+├── Health Analytics Dashboard      # Sample dashboard 
 └── README.md                       # This guide
 ```
 
