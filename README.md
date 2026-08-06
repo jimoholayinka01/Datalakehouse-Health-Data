@@ -7,11 +7,6 @@
 ![Delta Lake](https://img.shields.io/badge/Storage-Delta%20Lake-green)
 
 
-
-## 🚀 Prerequisites
-
-**No prior data engineering experience required!** This tutorial is designed for developers who want to learn data & AI fundamentals.
-
 ### 1. **Free Databricks Account**
 - Sign up at [databricks.com/learn/free-edition](https://bit.ly/dbx-free-signup)
 - No credit card required, free forever
