@@ -98,11 +98,9 @@ You'll start by learning why traditional approaches fall short and how the lakeh
 - Monitoring and alerting best practices
 - Scaling considerations for enterprise workloads
 
-
 <div align="center">
   <img src="visuals/img2-zorder.png" alt="Optimization Overview" width="80%">
 </div>
-
 
 ### 🛠️ Optimization Commands
 
@@ -127,12 +125,11 @@ SET TBLPROPERTIES (
 - **Silver Layer** → Cleaned, validated, business-ready data
 - **Gold Layer** → Aggregated analytics and ML-ready features
 
-
 <div align="center">
   <img src="visuals/img1-medallion.png" alt="Medallion Architecture" width="80%">
 </div>
 
-## Connecting Databricks to PowerBI
+## Connecting Databricks to PowerBI.
 Follow this step-by-step guide to connect Power BI Desktop to your Databricks SQL Warehouse using the native connector. This enables seamless querying of tables in Unity Catalog (e.g., health_data.gold as shown).
 
 #### Step 1: Get Connection Details from Databricks
@@ -165,8 +162,8 @@ Fill in the dialog exactly as shown:
 -- **Database:** gold (your schema containing the gold-layer tables)
 
 Leave other fields as default unless needed.
-Power BI Databricks Connection Dialog
-(Screenshot of the filled Databricks connection window with catalog health_data and database gold)
+Power BI Databricks Connection Dialog.
+(Screenshot of the filled Databricks connection window with catalog health_data and database gold).
 
 <div align="center">
   <img src="visuals/PowerBI Connection.png" alt="PowerBI Connection" width="80%">
